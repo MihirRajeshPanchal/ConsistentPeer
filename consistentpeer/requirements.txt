@@ -1,0 +1,12 @@
+langchain
+langchain_openai
+langchain_neo4j
+fastapi[all]
+requests
+python-dotenv
+langchain_community
+jq
+certainty-estimator
+transformers
+simpletransformers
+neo4j_graphrag

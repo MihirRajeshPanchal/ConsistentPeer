@@ -1,0 +1,4 @@
+.env
+*.pyc
+dataset
+model_cache
