@@ -1,6 +1,6 @@
-# **ConsistentPeer: A Knowledge Graph-Based Approach to Measuring Consistency in Peer Reviews**  
+# **ConsistentPeer: GraphRAG-Driven Counterfactual Insights for Evaluating Reviewer Consistency in Peer Review**  
 
-This repository contains the dataset, code, and methodologies developed for the research project, *ConsistentPeer: Reviewers Through the Lens of Knowledge Graphs to Measure Consistency in Peer Reviews*.  
+This repository contains the dataset, code, and methodologies developed for the research project, *ConsistentPeer: GraphRAG-Driven Counterfactual Insights for Evaluating Reviewer Consistency in Peer Review*.  
 
 The project introduces a **Consistency Score**, designed to assess alignment between textual review content and assigned confidence scores, ensuring transparency in the peer review process. The study leverages **Knowledge Graphs, Counterfactual Reasoning, and Retrieval-Augmented Generation (RAG)** to identify inconsistencies in self-reported reviewer confidence levels.  
 
