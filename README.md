@@ -94,6 +94,22 @@ Visit `http://127.0.0.1:8000/docs` for interactive API endpoints.
 - Finally, we present a **complete pipeline** to **identify and resolve inconsistencies** in review text and its **cohesiveness** with **self-annotated confidence scores and ratings**.
 
 ---
+## BibTeX Entry and Citation Info ##
+
+Please cite our paper:
+
+```bibtex
+@article{bharti2026consistentpeer,
+  title={ConsistentPeer: reviewers through GraphRAG-driven counterfactuals to measure consistency in peer review},
+  author={Bharti, Prabhat Kumar and Panchal, Mihir and Dalal, Viral},
+  journal={International Journal of Data Science and Analytics},
+  volume={22},
+  number={1},
+  pages={64},
+  year={2026},
+  publisher={Springer}
+}
+```
 
 ## **Contact**  
 
